@@ -104,10 +104,12 @@ if _name_ == '_main_':
 Insert image here
 
 initial position:
-![WhatsApp Image 2024-01-04 at 14 27 32_267d5199](https://github.com/Saiguruchandran/mobilerobot-openloopcontrol/assets/144870946/66744e27-6982-45e3-83c3-3e6bd052de40)
+![WhatsApp Image 2024-01-04 at 14 30 27_77fd000b](https://github.com/Saiguruchandran/mobilerobot-openloopcontrol/assets/144870946/a241febe-9e36-4541-a00c-0a48135628c9)
+
 
 Final position:
-![WhatsApp Image 2024-01-04 at 14 27 33_f897b35b](https://github.com/Saiguruchandran/mobilerobot-openloopcontrol/assets/144870946/7d138a57-5a0f-4d23-965c-cfa75d692782)
+![WhatsApp Image 2024-01-04 at 14 30 27_482c6673](https://github.com/Saiguruchandran/mobilerobot-openloopcontrol/assets/144870946/0526b092-cca9-4d2e-88bb-3d0d9f37e072)
+
 
 <br/>
 <br/>
